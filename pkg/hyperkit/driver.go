@@ -39,7 +39,7 @@ import (
 	"github.com/docker/machine/libmachine/state"
 	"github.com/google/uuid"
 	"github.com/johanneswuerbach/nfsexports"
-	pkgdrivers "github.com/machine-drivers/docker-machine-driver-hyperkit/pkg/drivers"
+	pkgdrivers "github.com/zazula/docker-machine-driver-hyperkit/pkg/drivers"
 	ps "github.com/mitchellh/go-ps"
 	hyperkit "github.com/moby/hyperkit/go"
 	"github.com/pkg/errors"
